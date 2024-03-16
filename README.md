@@ -1,8 +1,8 @@
 ![Header](./header-image.png)
-<h2 align="center">Third Year Student @Indian Institute of Information Technology, Sonepat | C++ | DSA | Web Dev | Specialist @Codeforces</h2>
+<h2 align="center">Third Year Student @Indian Institute of Information Technology, Sonepat | CP | DSA | Web Dev | Specialist @Codeforces</h2>
 <br />
 
-<img align="right" alt="Coding" width="300" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+<img align="right" alt="Coding" width="300" src="./coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjain38&label=Profile%20views&color=0e75b6&style=flat" alt="harshjain38" /> </p>
 
 
