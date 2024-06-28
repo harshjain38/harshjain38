@@ -1,7 +1,6 @@
 ![Header](./header-image.png)
-<h2 align="center">Third Year Student @Indian Institute of Information Technology, Sonepat | CP | DSA | Web Dev | Specialist @Codeforces</h2>
-<br />
 
+<br/><br />
 <img align="right" alt="Coding" width="280" src="./coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjain38&label=Profile%20views&color=0e75b6&style=flat" alt="harshjain38" /> </p>
 
@@ -11,8 +10,6 @@
 - 💬 Ask me about **DSA, CP, Web Dev**
 
 - 📫 How to reach me **harshjain.jain2002@gmail.com**
-
-- ⚡ Fun fact **Ctrl C, Ctrl V have saved more lives than Batman 😂**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
