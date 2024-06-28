@@ -1,6 +1,6 @@
 ![Header](./header-image.png)
-
-<br/><br />
+<hr />
+<br/>
 <img align="right" alt="Coding" width="280" src="./coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjain38&label=Profile%20views&color=0e75b6&style=flat" alt="harshjain38" /> </p>
 
@@ -31,4 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshjain38&show_icons=true&locale=en&layout=compact" alt="harshjain38" /></p>
 <br/><br/><br/><br/><br/><br/><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshjain38&show_icons=true&locale=en" alt="harshjain38" /></p>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshjain38&" alt="harshjain38" /></p>
